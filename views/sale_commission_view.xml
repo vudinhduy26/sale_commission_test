@@ -51,6 +51,7 @@
             </form>
         </field>
     </record>
+    <!-- acction -->
     <record model="ir.actions.act_window" id="action_commission">
         <field name="name">Commission types</field>
         <field name="type">ir.actions.act_window</field>
